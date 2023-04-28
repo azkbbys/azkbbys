@@ -1,16 +1,20 @@
-### Hi there 👋
+### 你好~ 👋
+ 
+ **我擅长的语言：**
+1. python
+2. kitten4
+3. markdown
+ 
+ ![azkbbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=azkbbys&show_icons=true&theme=tokyonight)
 
-<!--
-**azkbbys/azkbbys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 我的主要项目
 
-Here are some ideas to get you started:
+1. O语言：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=azkbbys&repo=O-Language&theme=radical)](https://github.com/azkbbys/O-language)
+
+2. 阿兹卡班毕业生官网
+
+[![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=azkbbys&repo=azkbbys.github.io&theme=radical)](https://github.com/azkbbys/azkbbys.github.io)
+
+![](https://komarev.com/ghpvc/?username=azkbbys&color=green)
