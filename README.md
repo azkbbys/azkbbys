@@ -8,6 +8,9 @@
  
  ![azkbbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=azkbbys&show_icons=true&theme=tokyonight)
 
+### 我的猫站账号~o( =∩ω∩= )m
+[点我哦](https://shequ.codemao.cn/user/11952313)
+
 ### 我的主要项目
 
 1. O语言：
