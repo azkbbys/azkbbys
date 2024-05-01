@@ -1,6 +1,8 @@
+![](https://komarev.com/ghpvc/?username=azkbbys&color=green)
+
 ### 你好~ 👋
- 
- **我擅长的语言：**
+
+**我擅长的语言：**
 1. python
 2. html
 3. kitten4
@@ -23,7 +25,6 @@
 
 [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=azkbbys&repo=azkbbys.github.io&theme=radical)](https://github.com/azkbbys/azkbbys.github.io)
 
-![](https://komarev.com/ghpvc/?username=azkbbys&color=green)
 
 
 ps：本来是准备学js的，但是不知道为啥就开始学html了
