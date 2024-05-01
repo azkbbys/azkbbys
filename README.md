@@ -13,6 +13,8 @@
 
 ### 我的主要项目
 
+![Star History Chart](https://api.star-history.com/svg?repos=azkbbys/azkbbys.github.io,azkbbys/Dao3DocsPro,azkbbys/O-language,azkbbys/azkbbys&type=Date)
+
 1. O语言：
 
 [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=azkbbys&repo=O-Language&theme=radical)](https://github.com/azkbbys/O-language)
