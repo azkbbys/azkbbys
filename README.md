@@ -25,6 +25,9 @@
 
 [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=azkbbys&repo=azkbbys.github.io&theme=radical)](https://github.com/azkbbys/azkbbys.github.io)
 
+3. 代码预览
+
+[![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=azkbbys&repo=code-viewer&theme=radical)](https://github.com/azkbbys/code-viewer)
 
 
 ps：本来是准备学js的，但是不知道为啥就开始学html了
